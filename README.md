@@ -9,3 +9,4 @@ step 7: necessary to download pip install openai
 step 8: run the server "py manage.py runserver/python manage.py runserver"
 
 
+
