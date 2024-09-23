@@ -17,3 +17,12 @@ This is the result of AI ChatBot
 
 ![Screenshot 2024-09-23 170926](https://github.com/user-attachments/assets/b4407d6f-349e-4bad-8b71-e71bd6f46ed3)
 ![Screenshot 2024-09-23 171001](https://github.com/user-attachments/assets/4ff576fd-5694-4672-bb18-2cad612f693e)
+
+User Details....
+
+![image](https://github.com/user-attachments/assets/bf5a8b7a-c5e1-401b-82ae-b720ec48e547)
+
+Form to register data.....
+ 
+![image](https://github.com/user-attachments/assets/50e7c325-5cf4-4186-ab15-991c6917cee9)
+
